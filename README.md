@@ -3,9 +3,9 @@
 </div>
 :camera: Todos os projetos possuem imagens na descrição ;)
 <br>
-Front-end: React, HTML5, CSS3, JavaScript
+:zap: Front-end: React, HTML5, CSS3, JavaScript
 <br>
-Back-end: Node.js, Java
+:zap: Back-end: Node.js, Java
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZqMHdhNWI4cHgzMjIzbWV4Y3BxbnJ6YzMxcGRsbmg3Mm43czN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcQI4DVHxT15JROlxS/giphy.gif" alt="Engineering GIF" width="400"/>
 </p>
