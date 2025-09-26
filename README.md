@@ -1,9 +1,4 @@
-Sou estudante de Engenharia de Software focada em front-end com React. Meus projetos exploram integração com APIs, responsividade e boas práticas de código. Estou buscando minha primeira oportunidade como dev júnior.<br>
-<br>:camera: Todos os projetos tem images ;)
-<br>
-:zap: Front-end: React, HTML5, CSS3, JavaScript
-<br>
-:zap: Back-end: Node.js, Java
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZqMHdhNWI4cHgzMjIzbWV4Y3BxbnJ6YzMxcGRsbmg3Mm43czN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcQI4DVHxT15JROlxS/giphy.gif" alt="Engineering GIF" width="400"/>
 </p>
