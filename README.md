@@ -1,8 +1,5 @@
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZqMHdhNWI4cHgzMjIzbWV4Y3BxbnJ6YzMxcGRsbmg3Mm43czN6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcQI4DVHxT15JROlxS/giphy.gif" alt="Engineering GIF" width="400"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&langs_count=6&theme=radical" />
 </p>
 
