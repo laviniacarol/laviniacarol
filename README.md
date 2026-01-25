@@ -11,4 +11,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&langs_count=5&theme=tokyonight" alt="Top Linguagens" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdzcDhzcXI5N3JsZ2NsNm5jMnBvcW91aGFvNGs3NW4wdmpmenI3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eqBj9LUjIfV2hXLGqd/giphy.gif" width="150" />
