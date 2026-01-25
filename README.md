@@ -1,3 +1,7 @@
+<p align="center">Keep building. Keep growing. Keep mastering.</p>
+<p align="center"> 
+  ──────────────── § ────────────────
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" /> &nbsp;&nbsp;
