@@ -1,4 +1,4 @@
-<h1 align="center">Lavínia Carol</h1>
+<h1 align="center">Carol Lavinia</h1>
 
 <p align="center">
 Software Engineering student focused on <strong>TypeScript</strong> and <strong>backend development</strong>.
