@@ -1,50 +1,53 @@
-<h1 align="center">Programming Languages & Stack</h1>
+<h1 align="center">Lavínia Carol</h1>
 
 <p align="center">
-  Keep building. Keep growing. Keep mastering.
+Software Engineering student focused on <strong>TypeScript</strong> and <strong>backend development</strong>.
 </p>
 
 <p align="center">
-  ──────────────── § ────────────────
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" />
+Keep building. Keep growing. Keep mastering.
 </p>
 
 ---
 
-### 📊 GitHub Language Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&langs_count=8&theme=transparent"
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,cs,postgres" />
+</p>
+
+---
+
+## 📊 Programming Stats
+
+### Top Languages
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
-### 📈 GitHub Stats
-
+### GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=laviniacarol&show_icons=true&theme=transparent"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=laviniacarol&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 ---
 
-### 🧠 Focus
+## 🎯 Focus
+
 - TypeScript (Frontend & Backend)
-- React (UI & SPA)
-- Node.js (REST APIs)
+- React (SPA, UI Components)
+- Node.js (REST APIs, Express)
 - C# (.NET fundamentals)
-- PostgreSQL (Relational Databases)
+- PostgreSQL (Relational modeling)
+
+---
+
+## 📌 Current Goal
+
+Strengthening backend fundamentals through small, practical projects focused on APIs, data modeling, and clean architecture.
