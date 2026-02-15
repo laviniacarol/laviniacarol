@@ -18,16 +18,9 @@ Keep building. Keep growing. Keep mastering.
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=laviniacarol&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laviniacarol&theme=tokyonight" 
   />
 </p>
 
