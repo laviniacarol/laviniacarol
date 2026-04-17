@@ -10,11 +10,6 @@ Keep building. Keep growing. Keep mastering.
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,cs,postgres" />
-</p>
 
 ---
 
