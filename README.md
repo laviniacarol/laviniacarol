@@ -18,12 +18,14 @@ Keep building. Keep growing. Keep mastering.
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laviniacarol&theme=tokyonight" 
   />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact)
 
 ---
 
 ## 🎯 Focus
 
 - TypeScript (Frontend & Backend)
+- Python (Machine Learning)
 - React (SPA, UI Components)
 - Node.js (REST APIs, Express)
 - C# (.NET fundamentals)
@@ -31,6 +33,4 @@ Keep building. Keep growing. Keep mastering.
 
 ---
 
-## 📌 Current Goal
 
-Strengthening backend fundamentals through small, practical projects focused on APIs, data modeling, and clean architecture.
