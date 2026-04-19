@@ -18,7 +18,7 @@ Keep building. Keep growing. Keep mastering.
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laviniacarol&theme=tokyonight" 
   />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&langs_count=8)
 ---
 
 ## 🎯 Focus
