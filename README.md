@@ -10,15 +10,18 @@ Keep building. Keep growing. Keep mastering.
 
 ---
 
-
----
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laviniacarol&theme=tokyonight" 
+  />
+</p>
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laviniacarol&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&langs_count=8&theme=tokyonight" 
   />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviniacarol&layout=compact&langs_count=8)
+
 ---
 
 ## 🎯 Focus
@@ -29,7 +32,3 @@ Keep building. Keep growing. Keep mastering.
 - Node.js (REST APIs, Express)
 - C# (.NET fundamentals)
 - PostgreSQL (Relational modeling)
-
----
-
-
