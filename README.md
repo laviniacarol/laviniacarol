@@ -1,8 +1,15 @@
 <h1 align="center">Carol Lavinia</h1>
 
 <p align="center">
-Keep building. Keep growing. Keep mastering.
-  ![Alexander](https://media.tenor.com/3b8kZkYhF3gAAAAC/alexander-the-great.gif)
+  <em>Keep building. Keep growing. Keep mastering.</em>
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.tenor.com/3b8kZkYhF3gAAAAC/alexander-the-great.gif" 
+    width="420"
+    alt="Alexander the Great"
+  />
 </p>
 
 <p align="center">
