@@ -1,8 +1,6 @@
 <h1 align="center">Carol Lavinia</h1>
 
-<p align="center">
-  <em>Keep building. Keep growing. Keep mastering.</em>
-</p>
+
 
 
 
