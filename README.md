@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://c.tenor.com/3b8kZkYhF3gAAAAC/alexander-the-great.gif"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/1c/ALEXANDER_AND_DIOGENES.gif"
     width="420"
     alt="Alexander the Great"
   />
