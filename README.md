@@ -2,6 +2,7 @@
 
 <p align="center">
 Keep building. Keep growing. Keep mastering.
+  ![Alexander](https://media.tenor.com/3b8kZkYhF3gAAAAC/alexander-the-great.gif)
 </p>
 
 <p align="center">
