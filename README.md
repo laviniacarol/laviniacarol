@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/1c/ALEXANDER_AND_DIOGENES.gif"
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Alexander_and_Bucephalus..gif"
     width="420"
     alt="Alexander the Great"
   />
