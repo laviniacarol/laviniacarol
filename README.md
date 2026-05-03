@@ -4,13 +4,7 @@
   <em>Keep building. Keep growing. Keep mastering.</em>
 </p>
 
-<p align="center">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Alexander_and_Bucephalus..gif"
-    width="420"
-    alt="Alexander the Great"
-  />
-</p>
+
 
 <p align="center">
   <img 
