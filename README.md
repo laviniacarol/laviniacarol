@@ -23,12 +23,3 @@ Keep building. Keep growing. Keep mastering.
 </p>
 
 ---
-
-## 🎯 Focus
-
-- TypeScript (Frontend & Backend)
-- Python (Machine Learning)
-- React (SPA, UI Components)
-- Node.js (REST APIs, Express)
-- C# (.NET fundamentals)
-- PostgreSQL (Relational modeling)
