@@ -3,7 +3,6 @@
 <img src="digital-decay.gif" alt="Digital Decay" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-laviniacarol-111111?style=for-the-badge&logo=github)](https://github.com/laviniacarol)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-7f1d1d?style=for-the-badge&labelColor=111111)
 ![Location](https://img.shields.io/badge/LOCATION-BRAZIL-111111?style=for-the-badge&labelColor=7f1d1d)
 
 </div>
