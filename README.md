@@ -6,15 +6,13 @@
 ![Status](https://img.shields.io/badge/STATUS-BUILDING-7f1d1d?style=for-the-badge&labelColor=111111)
 ![Location](https://img.shields.io/badge/LOCATION-BRAZIL-111111?style=for-the-badge&labelColor=7f1d1d)
 
-**Building things. Breaking assumptions. Following the data.**
-
 </div>
 
 ---
 
 ## `01 / ABOUT`
 
-Software Engineering student focused on **backend development, data, and AI**. Interested in understanding systems, solving problems, and turning ideas into functional software.
+Software Engineering student focused on **backend development and data**. Interested in understanding systems, solving problems, and turning ideas into functional software.
 
 ## `02 / STACK`
 
@@ -24,19 +22,13 @@ Software Engineering student focused on **backend development, data, and AI**. I
 
 </div>
 
-`LANGUAGES` Java · Python · TypeScript · C#
+`LANGUAGES` Java · TypeScript 
 
 `DATA` SQL · MySQL · PostgreSQL
 
-`FOCUS` Backend · BI · AI
+`FOCUS` Backend · BI ·
 
-## `03 / PROJECTS`
-
-- [**Java Study**](https://github.com/laviniacarol) — Java practice and learning.
-- [**AI Portfolio**](https://github.com/laviniacarol/IA-PORTFOLIO) — Data science and machine learning.
-- [**BioScanner**](https://github.com/laviniacarol/bioscanner) — Computer vision and body composition estimation.
-
-## `04 / ACTIVITY`
+## `03 / ACTIVITY`
 
 <div align="center">
 
@@ -51,7 +43,6 @@ Software Engineering student focused on **backend development, data, and AI**. I
 
 <div align="center">
 
-`"THE SYSTEM IS NEVER AS SIMPLE AS IT LOOKS."`
 
 <sub>END OF TRANSMISSION // CAROL LAVINIA</sub>
 
