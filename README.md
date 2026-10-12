@@ -17,7 +17,7 @@ Software Engineering student focused on **backend development and data**. Intere
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,typescript,react,cs,mysql,postgres,git,github,vscode&theme=dark" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=java,typescript,react,mysql,postgres,git,github,vscode&theme=dark" alt="Tech stack">
 
 </div>
 
